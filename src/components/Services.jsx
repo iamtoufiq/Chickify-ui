@@ -1,7 +1,4 @@
-// import Img from "../assets/biryani.png";
-// import Img from "../assets/biryani.png";
 import Img2 from "../assets/biryani2.png";
-// import Img3 from "../assets/biryani4.png";
 import StarRatings from "react-star-ratings";
 const ServicesData = [
   {

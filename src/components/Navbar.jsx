@@ -1,24 +1,8 @@
 import Logo from "../assets/food-logo.png";
 import { FaCartShopping } from "react-icons/fa6";
 import DarkMode from "./DarkMode";
+import { Menu } from "../data";
 
-const Menu = [
-  {
-    id: 1,
-    name: "Home",
-    link: "/#",
-  },
-  {
-    id: 2,
-    name: "Services",
-    link: "/#services",
-  },
-  {
-    id: 3,
-    name: "About",
-    link: "/#about",
-  },
-];
 const Navbar = () => {
   return (
     <>
