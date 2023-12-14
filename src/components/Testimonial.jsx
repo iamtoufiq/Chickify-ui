@@ -43,7 +43,9 @@ const Testimonial = () => {
             <p className="text-sm bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
               What Chicken Lovers Say
             </p>
-            <h1 className="text-3xl font-bold">Chicken Testimonials</h1>
+            <h1 className="text-3xl font-bold mb-[3px]">
+              Chicken Testimonials
+            </h1>
             <p className="text-xs text-gray-400">
               Discover why chicken enthusiasts love Chickify Zone. Read their
               testimonials below.

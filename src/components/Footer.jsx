@@ -18,8 +18,8 @@ const Footer = () => {
               CHICKIFY
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              Indulge in the rich flavors of chicken at Chickify Zone. Lorem
+              ipsum dolor sit amet consectetur adipisicing elit.{" "}
             </p>
             <br />
             <div className="flex items-center gap-3">
