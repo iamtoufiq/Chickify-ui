@@ -25,18 +25,18 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  Lorem, ipsum dolor.
+                  Chicken Delights
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                  Discover the savory world of chicken at Chickify Zone.
+                  Succulent pieces, expertly seasoned and cooked to perfection.
                   <br />
                   <br />
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Beatae ab sed, exercitationem minima aliquid eligendi
-                  distinctio? Fugit repudiandae numquam hic quo recusandae.
-                  Excepturi totam ad nam velit quasi quidem aspernatur.
+                  From our signature Chicken Biryani to the rich flavors of
+                  Chicken Curry, each dish is a celebration of poultry
+                  perfection. Experience the irresistible charm of our chicken
+                  creations that will tantalize your taste buds and leave you
+                  craving for more.
                 </p>
                 <div className="flex gap-6">
                   <div>

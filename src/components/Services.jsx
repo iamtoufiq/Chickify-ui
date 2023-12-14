@@ -7,28 +7,29 @@ const ServicesData = [
   {
     id: 1,
     img: Img2,
-    name: "Biryani",
+    name: "Chicken Biryani",
     rating: 4,
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "Savor the rich flavors of our Chicken Biryani, expertly crafted for an unparalleled dining experience.",
   },
   {
     id: 2,
     img: Img2,
-    name: "Chiken kari",
+    name: "Chicken Kari",
     rating: 4.5,
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Indulge in the aromatic Chicken Kari, a culinary masterpiece that combines spices and tenderness in every bite.",
   },
   {
     id: 3,
     img: Img2,
-    name: "Cold Cofee",
+    name: "Chicken Curry",
     rating: 4.5,
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "Experience the perfection of our Chicken Curry, where succulent chicken meets a symphony of spices in a delightful medley.",
   },
 ];
+
 const Services = () => {
   return (
     <>
@@ -41,8 +42,8 @@ const Services = () => {
             </p>
             <h1 className="text-3xl font-bold">Services</h1>
             <p className="text-xs text-gray-400">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis delectus architecto error nesciunt,
+              Chicken delights, expertly crafted for your palate. Savor a
+              symphony of flavors, a poultry paradise like no other.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">
