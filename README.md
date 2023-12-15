@@ -27,4 +27,4 @@ Chickify is a chicken-themed e-commerce app where users can explore and order va
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/iamtoufiq/Chickify-ui.git
-   cd chickify
+   cd Chickify-ui
