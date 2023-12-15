@@ -1,4 +1,4 @@
-# Chickify - Chicken E-Commerce App
+# Chickify
 
 ## Description
 
